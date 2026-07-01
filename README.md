@@ -23,7 +23,7 @@
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
-| [zh-reading blank circle](./zh-reading-blank-circle.md) | 找两本书集体沉默的问题地带 | 读完两本书，找不到"下一步该想什么" |
+| [zh-reading-blank-circle](./zh-reading-blank-circle.md) | 找两本书集体沉默的问题地带 | 读完两本书，找不到"下一步该想什么" |
 | [zh-reading road forks](./zh-reading-road-forks.md) | 从一个真实问题走向两本书，找路上的分叉点 | 不知道为什么这两本书都被推荐给我，它们的逻辑分叉又在哪 |
 | [zh-book story](./zh-book-story.md) | 拆一本书的问题轴：零点→位移→落点 | 书评只给感受，我要看清一本书在认知史上挪动了哪一步 |
 
