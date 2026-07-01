@@ -23,23 +23,23 @@
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
-| [zh-reading-blank-circle](./zh-reading-blank-circle.md) | 找两本书集体沉默的问题地带 | 读完两本书，找不到"下一步该想什么" |
-| [zh-reading road forks](./zh-reading-road-forks.md) | 从一个真实问题走向两本书，找路上的分叉点 | 不知道为什么这两本书都被推荐给我，它们的逻辑分叉又在哪 |
-| [zh-book story](./zh-book-story.md) | 拆一本书的问题轴：零点→位移→落点 | 书评只给感受，我要看清一本书在认知史上挪动了哪一步 |
+| [zh-reading blank circle](./zh-reading%20blank%20circle.md) | 找两本书集体沉默的问题地带 | 读完两本书，找不到"下一步该想什么" |
+| [zh-reading road forks](./zh-reading%20road%20forks.md) | 从一个真实问题走向两本书，找路上的分叉点 | 不知道为什么这两本书都被推荐给我，它们的逻辑分叉又在哪 |
+| [zh-book story](./zh-book%20story.md) | 拆一本书的问题轴：零点→位移→落点 | 书评只给感受，我要看清一本书在认知史上挪动了哪一步 |
 
 ### 🌍 视角与祛魅工具
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
 | [zh-unmusk](./zh-unmusk.md) | 以指定国家/身份视角三层解构公众人物 | 中文语境里的人物评价太单一、太神化，需要真实异质视角 |
-| [ZH-France Student](./zh-france-student.md) | 化身法国18岁高中生与你平等讨论任何议题 | 想要一个不顺从、不照顾情绪、真正独立的思想对话者 |
+| [ZH-France Student](./ZH-France%20Student.md) | 化身法国18岁高中生与你平等讨论任何议题 | 想要一个不顺从、不照顾情绪、真正独立的思想对话者 |
 
 ### 🧠 概念与表达工具
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
-| [zh-Concept Story](./zh-concept.md) | 把一个研究生级概念隐藏进寓言，快结束才揭晓 | 概念讲解太干，我想先被故事勾住，再被概念击中 |
-| [ZH-Translate](./zh-translate.md) | 出版社级英中翻译，去翻译腔，术语逐一查证 | 机器翻译保留英文腔，我要读起来像中文作者直接写成的 |
+| [zh-Concept Story](./zh-Concept%20Story.md) | 把一个研究生级概念隐藏进寓言，快结束才揭晓 | 概念讲解太干，我想先被故事勾住，再被概念击中 |
+| [ZH-Translate](./ZH-Translate.md) | 出版社级英中翻译，去翻译腔，术语逐一查证 | 机器翻译保留英文腔，我要读起来像中文作者直接写成的 |
 
 ## ⚙️ 使用说明
 
