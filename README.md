@@ -23,16 +23,17 @@
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
-| [zh-reading-blank-circle](./zh-reading-blank-circle.md) | 找两本书集体沉默的问题地带 | 读完两本书，找不到"下一步该想什么" |
+| [zh-reading-blank-circle](./zh-reading-blank-circle.md) | 找书籍中间的空白部分 | 读完两本书，找不到"下一步该想什么" |
 | [zh-reading-road-forks](./zh-reading-road-forks.md) | 从一个真实问题走向两本书，找路上的分叉点 | 不知道为什么这两本书都被推荐给我，它们的逻辑分叉又在哪 |
-| [zh-book-story](./zh-book-story.md) | 拆一本书的问题轴：零点→位移→落点 | 书评只给感受，我要看清一本书在认知史上挪动了哪一步 |
+| [zh-book-story](./zh-book-story.md) | 将书转成故事 | 书评只给感受，我要看清一本书在认知史上挪动了哪一步 |
+| [zh-path-to-book](./zh-path-to-book.md) | 从你的问题出发，给你找书 | 有困惑但不知道该看什么书，随手一搜全是畅销榜同款书单 |
 
 ### 🌍 视角与祛魅工具
 
 | Skill | 一句话 | 核心痛点 |
 | :--- | :--- | :--- |
-| [zh-unmusk](./zh-unmusk.md) | 以指定国家/身份视角三层解构公众人物 | 中文语境里的人物评价太单一、太神化，需要真实异质视角 |
-| [zh-france-student](./zh-france-student.md) | 化身法国18岁高中生与你平等讨论任何议题 | 想要一个不顺从、不照顾情绪、真正独立的思想对话者 |
+| [zh-unmusk](./zh-unmusk.md) | 与任何国家的任何人聊天讨论 | 中文语境里的人物评价太单一、太神化，需要真实异质视角 |
+| [zh-france-student](./zh-france-student.md) | 与法国18岁高中生讨论任何议题 | 想要一个不顺从、不照顾情绪、真正独立的思想对话者 |
 
 ### 🧠 概念与表达工具
 
